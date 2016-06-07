@@ -1,3 +1,3 @@
 # RMIT
-
-This is my first project for impepemetning and testion the Alexnet.
+This is my first project 
+How Can I use the net and Code.?
